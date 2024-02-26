@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+}
+
+.icon {
+  height: 3em;
+  padding: 0.5rem 1rem;
+  margin: 0;
+}
+
+.text{
+  padding: 0;
+  margin: 0;
+}
+
+.text p{
+  margin: 0.5rem 0;
+}
