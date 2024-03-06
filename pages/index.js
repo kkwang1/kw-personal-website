@@ -55,11 +55,14 @@ export default function Home() {
           </KeyItem>
           <h2>Publications:</h2>
           <KeyItem>
-            <p><b>Kelly Wang</b>, Dan Bially Levy, Kien T Nguyen, Ada Lerner, and Abigail Marsh. 2024. "Counting Carrds: Investigating Personal Disclosure and Boundary Management in Transformative Fandom." <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)</i>, May 11-16, 2024, Honolulu, HI, USA. <i>ACM</i>, New York, NY, USA. (To Appear) <a href="/counting-carrds.pdf">pre-print</a></p>
+            <p><u>Kelly Wang</u>, Dan Bially Levy, Kien T Nguyen, Ada Lerner, and Abigail Marsh. 2024.<br />
+            <b>Counting Carrds: Investigating Personal Disclosure and Boundary Management in Transformative Fandom</b>. <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)</i>, May 11-16, 2024, Honolulu, HI, USA. <i>ACM</i>, New York, NY, USA. (To Appear)<br />
+            <a href="/counting-carrds.pdf">pre-print</a></p>
           </KeyItem>
           <p className='short-bottom'>Not technically my publication, but check out the queer HCI literature review I helped analyze:</p>
           <KeyItem>
-            <p>Jordan Taylor, Ellen Simpson, Anh-Ton Tran, Jed Brubaker, Sarah Fox, Haiyi Zhu. 2024. "Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI." <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)</i>, May 11-16, 2024, Honolulu, HI, USA. <i>ACM</i>, New York, NY, USA. (To Appear)</p>
+            <p>Jordan Taylor, Ellen Simpson, Anh-Ton Tran, Jed Brubaker, Sarah Fox, Haiyi Zhu. 2024.<br />
+            <b>Cruising Queer HCI on the DL: A Literature Review of LGBTQ+ People in HCI</b>. <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)</i>, May 11-16, 2024, Honolulu, HI, USA. <i>ACM</i>, New York, NY, USA. (To Appear)</p>
           </KeyItem>
         </div>
         </div>
