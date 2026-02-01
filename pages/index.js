@@ -58,20 +58,19 @@ export default function Home() {
           </IconItem>
           <h2>Publications:</h2>
           <KeyItem>
-            <p><u>Kelly Wang</u>, Dan Bially Levy, Kien T Nguyen, Ada Lerner, and Abigail Marsh. 2024.<br />
-            <b>Counting Carrds: Investigating Personal Disclosure and Boundary Management in Transformative Fandom</b>. <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)</i>, May 11-16, 2024, Honolulu, HI, USA. <i>ACM</i>, New York, NY, USA. doi: 10.1145/3613904.3642664.<br />
-            <a href="/counting-carrds.pdf" target="_blank" rel="noreferrer noopener">PDF</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3613904.3642664" target="_blank" rel="noreferrer noopener">ACM Link</a></p>
-          </KeyItem>
-          <h2>Pre-Prints:</h2>
-          <KeyItem>
             <p><u>Kelly Wang</u>, Ruochen Liu, Ada Lerner, Abigail Marsh, Tianshi Li. 2026.<br />
-            <b>Precarious But Active: A Look At Privacy Behaviors in Chinese Transformative Fandom on a Censored and Surveilled Internet</b>. Submitted to <i>Proceedings of the Privacy Enhancing Technologies Symposium (PETS '26)</i>, July 20-25, 2026, Calgary, Canada.<br />
-            <a href="/precarious-but-active.pdf" target="_blank" rel="noreferrer noopener">PDF</a></p>
+            <b>Precarious But Active: A Look At Privacy Behaviors in Chinese Transformative Fandom on a Censored and Surveilled Internet</b>. To appear in <i>Proceedings of the Privacy Enhancing Technologies Symposium (PETS '26)</i>, July 20-25, 2026, Calgary, Canada.<br />
+            <a href="/precarious-but-active.pdf" target="_blank" rel="noreferrer noopener">Pre-Print PDF</a></p>
           </KeyItem>
           <KeyItem>
             <p><u>Kelly Wang</u>, Ashlee Milton, Leah Rosenbloom, Erika Melder, Ada Lerner, Michael Ann DeVito. 2026.<br />
-            <b>"How would I know what I would want from or with them?": Supporting A-Spec Approaches to Developing Relationships Through Online Platforms</b>. Submitted to <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '26)</i>, April 13-17, 2026, Barcelona, Spain. <i>ACM</i>, New York, NY, USA.<br />
-            <a href="/how-would-i-know.pdf" target="_blank" rel="noreferrer noopener">PDF</a></p>
+            <b>"How would I know what I would want from or with them?": Supporting A-Spec Approaches to Developing Relationships Through Online Platforms</b>. To appear in <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '26)</i>, April 13-17, 2026, Barcelona, Spain. <i>ACM</i>, New York, NY, USA.<br />
+            <a href="/how-would-i-know.pdf" target="_blank" rel="noreferrer noopener">Pre-Print PDF</a></p>
+          </KeyItem>
+          <KeyItem>
+            <p><u>Kelly Wang</u>, Dan Bially Levy, Kien T Nguyen, Ada Lerner, and Abigail Marsh. 2024.<br />
+            <b>Counting Carrds: Investigating Personal Disclosure and Boundary Management in Transformative Fandom</b>. <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24)</i>, May 11-16, 2024, Honolulu, HI, USA. <i>ACM</i>, New York, NY, USA. doi: 10.1145/3613904.3642664.<br />
+            <a href="/counting-carrds.pdf" target="_blank" rel="noreferrer noopener">PDF</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3613904.3642664" target="_blank" rel="noreferrer noopener">ACM Link</a></p>
           </KeyItem>
           <h2>Press:</h2>
           <KeyItem>
