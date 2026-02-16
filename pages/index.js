@@ -53,9 +53,12 @@ export default function Home() {
               <b> We are recruiting, and you can sign up <a href="https://cryptpad.fr/form/#/2/form/view/3DdEa91sCwAvX6E1bF6uGalc-R3G6PJtRuHff3Jt4OI/" target="_blank" rel="noreferrer noopener">here</a>!</b>
           </p>
           </IconItem>
-          <IconItem emoji="&#127793;">
-            <p><b>I am currently in a transitional period of my Ph.D. and would love to collaborate on new projects!</b></p>
+          <IconItem emoji="&#128241;">
+            <p>I am collaborating with Tianshi Li and Yuxi Wu to perform a content analysis of <b>privacy harm posts on reddit</b>, identifying the types of harms users ask for help on and the context surrounding them.</p>
           </IconItem>
+          {/* <IconItem emoji="&#127793;">
+            <p><b>I am currently in a transitional period of my Ph.D. and would love to collaborate on new projects!</b></p>
+          </IconItem> */}
           <h2>Publications:</h2>
           <KeyItem>
             <p><u>Kelly Wang</u>, Ruochen Liu, Ada Lerner, Abigail Marsh, Tianshi Li. 2026.<br />
