@@ -65,7 +65,7 @@ export default function Home() {
           <KeyItem>
             <p><u>Kelly Wang</u>, Ashlee Milton, Leah Rosenbloom, Erika Melder, Ada Lerner, Michael Ann DeVito. 2026.<br />
             <b>"How would I know what I would want from or with them?": Supporting A-Spec Approaches to Developing Relationships Through Online Platforms</b>. To appear in <i>Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '26)</i>, April 13-17, 2026, Barcelona, Spain. <i>ACM</i>, New York, NY, USA.<br />
-            <a href="/how-would-i-know.pdf" target="_blank" rel="noreferrer noopener">Pre-Print PDF</a></p>
+            <a href="/how-would-i-know.pdf" target="_blank" rel="noreferrer noopener">PDF</a></p>
           </KeyItem>
           <KeyItem>
             <p><u>Kelly Wang</u>, Dan Bially Levy, Kien T Nguyen, Ada Lerner, and Abigail Marsh. 2024.<br />
